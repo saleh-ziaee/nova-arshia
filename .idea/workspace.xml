@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7902ed07-9772-48fa-a6f6-d5e60ae48d94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/sections/TryIt/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/sections/WorkflowTab/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Action/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Action/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/B2bAi/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/B2bAi/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/CommentSlider/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/CommentSlider/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/MouseCursor/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/MouseCursor/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/ServicesSlider/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/ServicesSlider/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/WorkflowTabs/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/WorkflowTabs/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sections/Actions/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sections/Actions/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sections/AiToData/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sections/AiToData/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sections/NovaComments/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sections/NovaComments/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sections/PopularPlatform/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sections/PopularPlatform/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sections/RunCore/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sections/RunCore/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sections/WhyNova/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sections/WhyNova/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sections/WorkflowSection/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sections/WorkflowSection/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/utils.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;saleh-ziaee&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:saleh-ziaee/nova.git&quot;,
+    &quot;accountId&quot;: &quot;44bf8724-521a-4059-bb84-425645b476f4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="30it7WQYGLPGJ9GhU9KORu6s2Y2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/tank/WebstormProjects/nova-landing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "/home/tank/apps/WebStorm-2024.1.5/WebStorm-241.18034.50/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/sections/WorkflowSection" />
+      <recent name="$PROJECT_DIR$/src/app/sections/WorkFlowSection" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7902ed07-9772-48fa-a6f6-d5e60ae48d94" name="Changes" comment="" />
+      <created>1754122053876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754122053876</updated>
+      <workItem from="1754122054983" duration="6989000" />
+      <workItem from="1754133565434" duration="7346000" />
+      <workItem from="1754141587957" duration="1773000" />
+      <workItem from="1754143372915" duration="4000" />
+      <workItem from="1754202679726" duration="3000" />
+      <workItem from="1754216113206" duration="2560000" />
+      <workItem from="1754220076707" duration="2326000" />
+      <workItem from="1754465850194" duration="8344000" />
+      <workItem from="1754565402398" duration="408000" />
+      <workItem from="1754566740356" duration="4970000" />
+      <workItem from="1754583355966" duration="3070000" />
+      <workItem from="1754656348816" duration="630000" />
+      <workItem from="1754658101886" duration="1376000" />
+      <workItem from="1754814376849" duration="768000" />
+      <workItem from="1754819418930" duration="30000" />
+      <workItem from="1754823378489" duration="39000" />
+      <workItem from="1754823619005" duration="11693000" />
+      <workItem from="1754898962194" duration="7224000" />
+      <workItem from="1754922630816" duration="3577000" />
+      <workItem from="1754985609188" duration="15044000" />
+      <workItem from="1755007534374" duration="305000" />
+      <workItem from="1755007845749" duration="455000" />
+      <workItem from="1755008306222" duration="8011000" />
+      <workItem from="1755023008609" duration="161000" />
+      <workItem from="1755066149931" duration="13306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
