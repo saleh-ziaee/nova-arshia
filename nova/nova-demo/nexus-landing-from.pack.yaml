@@ -1,0 +1,44 @@
+apiVersion: k8s.kubit.ir/v1alpha1
+kind: Pack
+metadata:
+  name: nexus-landing-front
+  namespace: nova-demo
+spec:
+  chart:
+    repository:
+      kind: ClusterPackRepository
+      name: kubit-paas
+    name: simplepack
+    version: ~=0.2.10
+  vars:
+    DOCKER_TAG: 'abcbd4a6'
+  values:
+    cpuMilli: 20
+    memoryMB: 200
+
+    gonbad:
+      workloads:
+        main:
+          containers:
+            main:
+              image:
+                repository: tank-default.r1.kubit.dev/nexus-landing-front # REQUIRED
+                tag: '{{ vars.DOCKER_TAG }}' # REQUIRED
+              ports:
+                http:
+                  number: 3000
+              resources:
+                requests:
+                  cpu: 20m
+                  memory: 200Mi
+                limits:
+                  cpu: 20m
+                  memory: 200Mi
+          replicaCount: 1
+      ingresses:
+        main:
+          enabled: true
+          hosts:
+            - host: nexus-landing.m.timez.ir
+          tls:
+            - secretName: star-m-timez-ir-tls
